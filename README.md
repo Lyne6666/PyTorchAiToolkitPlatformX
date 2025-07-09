@@ -1,2 +1,1 @@
-# PyTorchAiToolkitPlatformX
-Advanced PyTorchAiToolkitPlatformX project
+.
